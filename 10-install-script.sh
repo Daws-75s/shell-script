@@ -7,4 +7,4 @@
      echo "ERROR:: You must have sudo access to execute this script"
      exit 1 #other than 0
 fi     
- 
+echo "Script executed successfully"
